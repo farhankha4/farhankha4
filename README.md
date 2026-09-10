@@ -31,11 +31,11 @@ Applied Machine Learning & AI (Scikit-learn, XGBoost)
 📧 Email: farhankha2020@gmail.com
 🌐 [LinkedIn](https://www.linkedin.com/in/ifarhankh04/)
 
-🔧 Technical Skills Programming Languages: Python, Java, C, C++, JavaScript, HTML, CSS 
-Frameworks & Libraries: React, Next.js, Node.js, Express.js, REST API, Tailwind CSS, Scikit-learn, XGBoost 
-Databases: SQL, MongoDB, Supabase 
-Tools: AWS, Vercel, Render, Docker, Cloudinary, Figma, Git, GitHub 
-Data Visualization: Pandas, NumPy, Seaborn, Matplotlib
+Technical Skills Programming Languages: Python, Java, C, C++, JavaScript, HTML, CSS.
+Frameworks & Libraries: React, Next.js, Node.js, Express.js, REST API, Tailwind CSS, Scikit-learn, XGBoost.
+Databases: SQL, MongoDB, Supabase.
+Tools: AWS, Vercel, Render, Docker, Cloudinary, Figma, Git, GitHu.
+Data Visualization: Pandas, NumPy, Seaborn, Matplotlib.
 
 🏆 Achievements: 
 • Solved 300+ DSA questions across various platforms 
