@@ -34,11 +34,11 @@ Applied Machine Learning & AI (Scikit-learn, XGBoost)
 Technical Skills Programming Languages: Python, Java, C, C++, JavaScript, HTML, CSS.<br>
 Frameworks & Libraries: React, Next.js, Node.js, Express.js, REST API, Tailwind CSS, Scikit-learn, XGBoost.<br>
 Databases: SQL, MongoDB, Supabase.<br>
-Tools: AWS, Vercel, Render, Docker, Cloudinary, Figma, Git, GitHub.<br>
+Developer's Tools: AWS, Vercel, Render, Docker, Cloudinary, Figma, Git, GitHub.<br>
 Data Visualization: Pandas, NumPy, Seaborn, Matplotlib.<br>
 
-🏆 Achievements: 
-• Solved 300+ DSA questions across various platforms 
-• Won the ISA Delhi Automation Hackathon
+🏆 Achievements: <br>
+• Solved 300+ DSA questions across various platforms <br>
+• Won the ISA Delhi Automation Hackathon<br>
 
 "Build fast, build secure, keep shipping." 🚀
