@@ -1,34 +1,35 @@
-<h1 align="center">Hi there, I'm Farhan Khan 👋</h1> <p align="center"> Full Stack Developer | CS Undergrad @ Bharati Vidyapeeth's College of Engineering </p> <p align="center"> <a href="https://linkedin.com/in/ifarhankh04"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a> <a href="mailto:farhankha2020@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a> <a href="https://github.com/farhankha4"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" /></a> </p>
-🚀 About Me
-🎓 B.Tech in Computer Science at Bharati Vidyapeeth's College of Engineering (2023 – 2027), CGPA 8.73/10
-💼 Full Stack Intern @ Swift Volt Ventures, building RESTful APIs, JWT auth, RBAC, and payment systems
-🛠️ I build full-stack apps with React, Next.js, Node.js, Express.js & FastAPI
-🧠 Interested in Machine Learning, AI, and scalable backend systems
-🏆 Solved 300+ DSA questions | Won the ISA Delhi Automation Hackathon
-📫 Reach me at farhankha2020@gmail.com
+Farhan Khan 👨‍💻 🚀 Full Stack Developer |🧪 AI/ML Researcher| 🎓 B.Tech Computer Science, BVCOE Delhi
+
+🌟 About Me
+
+🖥️ Passionate about building scalable full-stack applications with clean, secure architecture.
+🔐 Experienced in designing RESTful APIs, JWT-based authentication, and role-based access control (RBAC) systems.
+💳 Hands-on with real-world integrations like payment gateways, real-time video/chat, and cloud media storage.
+🎯 Lifelong learner focused on writing production-ready code and solving 300+ DSA problems along the way.
+
+🌱 Experience
+
+Full Stack Intern @ Swift Volt Ventures (Jun 2026 – Aug 2026): Built and integrated RESTful APIs for authentication, vehicle management, bookings, reviews, payments, and admin operations using FastAPI. Implemented JWT-based auth with RBAC and a conflict-free booking system with Razorpay HMAC-SHA256 payment verification.
+
 🧩 Featured Projects
-Project	Description	Tech Stack
-CogniQ	Full-stack interview platform with real-time video, live chat, screen sharing, and a VS Code–powered collaborative code editor with secure code execution.	React.js, Express.js, MongoDB, Clerk, Stream API, TanStack, Inngest
-Evora	Full-stack EV rental platform with JWT auth, RBAC, conflict-free booking, and Razorpay payments with HMAC-SHA256 verification.	Next.js, React, FastAPI, Supabase, SQLAlchemy, Python, JWT, Razorpay
-InkEcho	Full-stack MERN blogging platform with secure auth, HTTP-only cookie sessions, and Cloudinary-powered media handling.	React, Node.js, Express.js, MongoDB, Cloudinary, JWT, bcrypt
-🛠️ Tech Stack
 
-Languages
-Show Image Show Image Show Image Show Image Show Image Show Image
+CogniQ: Full-stack interview platform with real-time video interviews, live chat, screen sharing, and a VS Code–powered online code editor with secure code execution and automated test-case evaluation. Built with React.js, Express.js, MongoDB, Clerk, Stream API, TanStack & Inngest.
+Evora: Full-stack EV rental platform with JWT-based auth, RBAC, conflict-free date-range booking, and Razorpay payments with HMAC-SHA256 verification. Built with Next.js, React, FastAPI, Supabase, SQLAlchemy & Python.
+InkEcho: Full-stack MERN blogging platform with secure JWT authentication, HTTP-only cookie sessions, and Cloudinary-powered image/media handling.
 
-Frameworks & Libraries
-Show Image Show Image Show Image Show Image Show Image Show Image
+🧠 Areas of Interest
 
-Databases
-Show Image Show Image Show Image
+Scalable backend systems & secure API design
+Payment gateway integrations and transaction security
+Applied Machine Learning & AI (Scikit-learn, XGBoost)
 
-Tools & Platforms
-Show Image Show Image Show Image Show Image Show Image Show Image
+📫 Get in Touch
 
-Data & ML
-Show Image Show Image Show Image
+📧 Email: farhankha2020@gmail.com
+🌐 LinkedIn
 
-📊 GitHub Stats
-<p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=farhankha4&show_icons=true&theme=tokyonight" /> <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=farhankha4&theme=tokyonight" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhankha4&layout=compact&theme=tokyonight" /> </p>
-<p align="center"><i>Thanks for stopping by! Feel free to explore my repos and reach out.</i></p>
-Content
+🔧 Technical Skills Programming Languages: Python, Java, C, C++, JavaScript, HTML, CSS Frameworks & Libraries: React, Next.js, Node.js, Express.js, REST API, Tailwind CSS, Scikit-learn, XGBoost Databases: SQL, MongoDB, Supabase Cloud & Tools: AWS, Vercel, Render, Docker, Cloudinary, Figma, Git, GitHub Data Visualization: Pandas, NumPy, Seaborn, Matplotlib
+
+🏆 Achievements: Solved 300+ DSA questions across various platforms • Won the ISA Delhi Automation Hackathon
+
+"Build fast, build secure, keep shipping." 🚀
