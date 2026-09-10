@@ -13,12 +13,12 @@ Full Stack Intern @ Swift Volt Ventures (Jun 2026 – Aug 2026): Built and integ
 
 🧩 Featured Projects
 
-[CogniQ](https://github.com/farhankha4/CogniQ): 
-Full-stack interview platform with real-time video interviews, live chat, screen sharing, and a VS Code–powered online code editor with secure code execution and automated test-case evaluation. Built with React.js, Express.js, MongoDB, Clerk, Stream API, TanStack & Inngest.
-[Evora](https://github.com/farhankha4/Evora): 
-Full-stack EV rental platform with JWT-based auth, RBAC, conflict-free date-range booking, and Razorpay payments with HMAC-SHA256 verification. Built with Next.js, React, FastAPI, Supabase, SQLAlchemy & Python.
-[InkEcho](https://github.com/farhankha4/InkEcho): 
-Full-stack MERN blogging platform with secure JWT authentication, HTTP-only cookie sessions, and Cloudinary-powered image/media handling.
+[CogniQ](https://github.com/farhankha4/CogniQ): <br>
+Full-stack interview platform with real-time video interviews, live chat, screen sharing, and a VS Code–powered online code editor with secure code execution and automated test-case evaluation. Built with React.js, Express.js, MongoDB, Clerk, Stream API, TanStack & Inngest.<br>
+[Evora](https://github.com/farhankha4/Evora): <br>
+Full-stack EV rental platform with JWT-based auth, RBAC, conflict-free date-range booking, and Razorpay payments with HMAC-SHA256 verification. Built with Next.js, React, FastAPI, Supabase, SQLAlchemy & Python. <br>
+[InkEcho](https://github.com/farhankha4/InkEcho): <br>
+Full-stack MERN blogging platform with secure JWT authentication, HTTP-only cookie sessions, and Cloudinary-powered image/media handling.<br>
 
 🧠 Areas of Interest
 
@@ -31,11 +31,11 @@ Applied Machine Learning & AI (Scikit-learn, XGBoost)
 📧 Email: farhankha2020@gmail.com
 🌐 [LinkedIn](https://www.linkedin.com/in/ifarhankh04/)
 
-Technical Skills Programming Languages: Python, Java, C, C++, JavaScript, HTML, CSS.
-Frameworks & Libraries: React, Next.js, Node.js, Express.js, REST API, Tailwind CSS, Scikit-learn, XGBoost.
-Databases: SQL, MongoDB, Supabase.
-Tools: AWS, Vercel, Render, Docker, Cloudinary, Figma, Git, GitHu.
-Data Visualization: Pandas, NumPy, Seaborn, Matplotlib.
+Technical Skills Programming Languages: Python, Java, C, C++, JavaScript, HTML, CSS.<br>
+Frameworks & Libraries: React, Next.js, Node.js, Express.js, REST API, Tailwind CSS, Scikit-learn, XGBoost.<br>
+Databases: SQL, MongoDB, Supabase.<br>
+Tools: AWS, Vercel, Render, Docker, Cloudinary, Figma, Git, GitHub.<br>
+Data Visualization: Pandas, NumPy, Seaborn, Matplotlib.<br>
 
 🏆 Achievements: 
 • Solved 300+ DSA questions across various platforms 
