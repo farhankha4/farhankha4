@@ -13,9 +13,12 @@ Full Stack Intern @ Swift Volt Ventures (Jun 2026 – Aug 2026): Built and integ
 
 🧩 Featured Projects
 
-CogniQ: Full-stack interview platform with real-time video interviews, live chat, screen sharing, and a VS Code–powered online code editor with secure code execution and automated test-case evaluation. Built with React.js, Express.js, MongoDB, Clerk, Stream API, TanStack & Inngest.
-Evora: Full-stack EV rental platform with JWT-based auth, RBAC, conflict-free date-range booking, and Razorpay payments with HMAC-SHA256 verification. Built with Next.js, React, FastAPI, Supabase, SQLAlchemy & Python.
-InkEcho: Full-stack MERN blogging platform with secure JWT authentication, HTTP-only cookie sessions, and Cloudinary-powered image/media handling.
+[CogniQ](https://github.com/farhankha4/CogniQ): 
+Full-stack interview platform with real-time video interviews, live chat, screen sharing, and a VS Code–powered online code editor with secure code execution and automated test-case evaluation. Built with React.js, Express.js, MongoDB, Clerk, Stream API, TanStack & Inngest.
+[Evora](https://github.com/farhankha4/Evora): 
+Full-stack EV rental platform with JWT-based auth, RBAC, conflict-free date-range booking, and Razorpay payments with HMAC-SHA256 verification. Built with Next.js, React, FastAPI, Supabase, SQLAlchemy & Python.
+[InkEcho](https://github.com/farhankha4/InkEcho): 
+Full-stack MERN blogging platform with secure JWT authentication, HTTP-only cookie sessions, and Cloudinary-powered image/media handling.
 
 🧠 Areas of Interest
 
@@ -26,10 +29,16 @@ Applied Machine Learning & AI (Scikit-learn, XGBoost)
 📫 Get in Touch
 
 📧 Email: farhankha2020@gmail.com
-🌐 LinkedIn
+🌐 [LinkedIn](https://www.linkedin.com/in/ifarhankh04/)
 
-🔧 Technical Skills Programming Languages: Python, Java, C, C++, JavaScript, HTML, CSS Frameworks & Libraries: React, Next.js, Node.js, Express.js, REST API, Tailwind CSS, Scikit-learn, XGBoost Databases: SQL, MongoDB, Supabase Cloud & Tools: AWS, Vercel, Render, Docker, Cloudinary, Figma, Git, GitHub Data Visualization: Pandas, NumPy, Seaborn, Matplotlib
+🔧 Technical Skills Programming Languages: Python, Java, C, C++, JavaScript, HTML, CSS 
+Frameworks & Libraries: React, Next.js, Node.js, Express.js, REST API, Tailwind CSS, Scikit-learn, XGBoost 
+Databases: SQL, MongoDB, Supabase 
+Tools: AWS, Vercel, Render, Docker, Cloudinary, Figma, Git, GitHub 
+Data Visualization: Pandas, NumPy, Seaborn, Matplotlib
 
-🏆 Achievements: Solved 300+ DSA questions across various platforms • Won the ISA Delhi Automation Hackathon
+🏆 Achievements: 
+• Solved 300+ DSA questions across various platforms 
+• Won the ISA Delhi Automation Hackathon
 
 "Build fast, build secure, keep shipping." 🚀
