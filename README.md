@@ -8,9 +8,13 @@ ________________________________________________________________________________
 💳 Hands-on with real-world integrations like payment gateways, real-time video/chat, and cloud media storage.
 🎯 Lifelong learner focused on writing production-ready code and solving 300+ DSA problems along the way.
 
+___________________________________________________________________________________________________________
+
 🌱 Experience
 
 Full Stack Intern @ Swift Volt Ventures (Jun 2026 – Aug 2026): Built and integrated RESTful APIs for authentication, vehicle management, bookings, reviews, payments, and admin operations using FastAPI. Implemented JWT-based auth with RBAC and a conflict-free booking system with Razorpay HMAC-SHA256 payment verification.
+
+___________________________________________________________________________________________________________
 
 🧩 Featured Projects
 
@@ -21,22 +25,30 @@ Full-stack EV rental platform with JWT-based auth, RBAC, conflict-free date-rang
 [InkEcho](https://github.com/farhankha4/InkEcho): <br>
 Full-stack MERN blogging platform with secure JWT authentication, HTTP-only cookie sessions, and Cloudinary-powered image/media handling.<br>
 
+___________________________________________________________________________________________________________
+
 🧠 Areas of Interest
 
 Scalable backend systems & secure API design
 Payment gateway integrations and transaction security
 Applied Machine Learning & AI (Scikit-learn, XGBoost)
 
+___________________________________________________________________________________________________________
+
 📫 Get in Touch
 
 📧 Email: farhankha2020@gmail.com
 🌐 [LinkedIn](https://www.linkedin.com/in/ifarhankh04/)
+
+___________________________________________________________________________________________________________
 
 Technical Skills Programming Languages: Python, Java, C, C++, JavaScript, HTML, CSS.<br>
 Frameworks & Libraries: React, Next.js, Node.js, Express.js, REST API, Tailwind CSS, Scikit-learn, XGBoost.<br>
 Databases: SQL, MongoDB, Supabase.<br>
 Developer's Tools: AWS, Vercel, Render, Docker, Cloudinary, Figma, Git, GitHub.<br>
 Data Visualization: Pandas, NumPy, Seaborn, Matplotlib.<br>
+
+___________________________________________________________________________________________________________
 
 🏆 Achievements: <br>
 • Solved 300+ DSA questions across various platforms <br>
