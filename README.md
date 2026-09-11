@@ -1,4 +1,4 @@
-Farhan Khan 👨‍💻 🚀 Full Stack Developer |🧪 AI/ML Researcher| 🎓 B.Tech Computer Science, BVCOE Delhi
+Farhan Khan 👨‍💻 🚀 Full Stack Developer |🧪 AI/ML Enthusiast| 🎓 B.Tech Computer Science, BVCOE Delhi
 ___________________________________________________________________________________________________________
 
 🌟 About Me
